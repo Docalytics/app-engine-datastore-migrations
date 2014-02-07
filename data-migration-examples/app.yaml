@@ -1,0 +1,29 @@
+application: data-migration-example-basic
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: yes
+
+builtins:
+- deferred: on
+
+handlers:
+- url: /favicon\.ico
+  static_files: favicon.ico
+  upload: favicon\.ico
+
+- url: /static
+  expiration: "0m"
+  static_dir: static
+
+- url: .*
+  script: main.app
+
+libraries:
+- name: webapp2
+  version: "2.5.2"
+- name: jinja2
+  version: "2.6"
+
+includes:
+- mapreduce/include.yaml

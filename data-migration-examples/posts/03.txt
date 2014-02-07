@@ -1,0 +1,35 @@
+Paper Now Available For iOS In The US, And It Could Be A Facebook Replacement
+
+Facebook’s new standalone app Paper is now available for download on iOS to everyone in the US, and it’s more than just a content reader. Paper has messages, notifications, search, and a completely redesigned profile.
+
+When I asked the team leaders behind Paper if they still used the old one, product manager Michael Reckhow diplomatically responded “mmhmm, yeah”, but designer Mike Matas just smiled coyly. I pounced, repeating my question just to him. “Once in a while”. He’d spilled the beans. Paper could be a Facebook killer.
+
+“Mostly I use this [Paper]” Matas continued. “There’s some features that it doesn’t have like if uhh….Events is a good example, like if I need to go find an event.” I pressed, “But otherwise you’re finding this does enough?” “For my usage, yeah”, Matas replied.
+
+Facebook announced today’s release of Paper last Thursday. You can check out details about how it works and what it means there, but essentially it’s the next step in CEO Mark Zuckerberg’s vision of Facebook spawning a family of mobile apps with different specific purposes.
+
+Screen Shot 2014-02-03 at 8.53.27 AM
+
+Built as part of Facebook’s new “Creative Labs” standalone app initiative, Paper lets you choose different content “Sections” to add to a sort of digital newspaper. You can then browse a redesigned News Feed and your Paper sections to read stories from friends, big publishers, public figures, and emerging content creators in a stylized full-screen format. Paper also lets you share content with a visual composer that shows a preview of exactly how your post will look to other users.
+
+Paper for iOS is free to download for anyone in the US with iOS 7 or later. Facebook hasn’t mentioned any immediate plans for an iPad or Android version. It shares a name with several existing apps including a drawing tool developed by FiftyThree which has asked Facebook to change the title of its new product. [Update 11:15am PST: Facebook has given a "no comment" but may get to keep the name because FiftyThree registered its trademark for "Paper By FiftyThree" not "Paper".]
+
+When I visited 1 Hacker Way Friday to demo Paper, I knew I’d see plenty of intricate animations and next-level UI tricks. But I was less interested in how we might use Paper than in how it might change how we use Facebook’s main app. I’d heard whispers that certain higher-ups at the company had almost entirely switched from Facebook for iOS to Paper, and some of the standalone app’s team members haven’t had the old Facebook installed on their phones in months.
+
+Zuckerberg is certainly enjoying Paper. Reckhow tells me, “He loves it. He uses it, and he’s just excited to launch like we are. We’ve met regularly with him…And he gives feedback along the way. I think one area where he definitely challenged us was to think of the content as really broad and to think past the typical areas that you’d think of browsing content.”
+
+Screen Shot 2014-02-03 at 8.36.49 AM
+
+Reckhow was conservative about his hopes for the launch, saying the team has no specific download or engagement goals, but instead just hopes they’ve created something people will love using. He told me:
+
+“It’s such a great opportunity for us to launch something that people can just go and check out in the App store, see how it’s going to fit into their lives and their homescreens, install it, and then just try it out and it doesn’t affect their experience they have already and they can figure out what the right way to use Facebook is. it’s not really our job to tell them ‘this is how you should use Facebook right now and everyone has to use it in the same way.’”
+
+But Matas and Reckhow were candid about how they think Paper improves on what’s broken about the current Facebook mobile app. Matas told me:
+
+“I’ve been in a situation where you’re watching the sunset over the grand canyon and you’re like ‘this is the most beautiful, amazing thing I’ve ever seen. I need to share this with people.’ You take the photo and put it on Facebook and it’s cluttered with a bunch of blue chrome, the photo is super small and pixelated, and it just totally sucks the soul out of the photo.”
+
+Paper began as a way to give this content the presentation it deserves, but that beautification has bled out to much of the rest of Facebook. Messages and Notifications can be opened over the top of Paper so they don’t drag you away from your current screen. Profiles, Pages, and Events now have a truly mobile-first design that centers around images and swipeable full-screen cards to convey the most important images. Anything unnecessary was left out. In the end, Paper is a full-fledged yet simplified Facebook client that brings a new focus on aesthetics to the social network.
+
+[Update 5:45pm PST: In fact, Paper is purposefully designed to be a Facebook killer. Quietly buried in the settings is the ability to open push notifications from Facebook in Paper instead of Facebook for iOS. Facebook is actually giving you a hand in switching entirely to Paper.]
+
+What if Paper gets so popular it starts becoming people’s default Facebook mobile experience? Reckhow says “It’s a good problem to have”.

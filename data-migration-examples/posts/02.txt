@@ -1,0 +1,39 @@
+Twitter Is Hiring Commerce Specialists
+
+Twitter has not responded to reports, from others and from us, that it is building a marketplace-style platform where users can buy things, but the social network appears to be quietly building it out anyway. The latest development is that Twitter has posted job ads for people to work on a commerce service — one of the rare times that the company has itself disclosed detail of what it is planning to do. Some of it confirms earlier reports of how Twitter commerce will take shape.
+
+The roles currently listed are for a commerce product manager, a commerce product marketing manager and a senior manager for commerce partnerships.
+
+At least one of these jobs appears to have been posted only earlier today, with a current Twitter product marketing person Tweeting out the link.
+
+The role of the senior manager for commerce partnerships will be responsible for “incubating our nascent commerce business as we empower our users to conduct commerce in ways consistent with our values.” The person will report directly to VP of commerce — that would be Nathan Hubbard, the ex-Ticketmaster CEO who joined last August. The successful applicant will be responsible for a number of areas:
+
+Building and managing commerce partner relationships with our advertising clients
+Working closely with our product and engineering teams to spec and define our next generation of commerce products for users and merchants
+Driving business development deals with key partners in the commerce value chain
+Analyzing the business opportunity for Twitter across commerce verticals and building a data-driven case for participation.
+The role of product marketing manager, meanwhile, seems to tie the business of commerce more directly into how Twitter manages advertising across its site.
+
+“A successful candidate knows how to drive advertiser acquisition, retention and education with strategic marketing and has a strong background developing and managing product marketing programs,” Twitter notes, later explaining, “This role will be particularly focused on bringing new commerce experiences to users through the Twitter platform, so experience in online retail, payments, or commerce will be valued.”
+
+Later, in the list of credentials for the role, Twitter notes that a candidate needs to have “deep understanding of online commerce. Experience working for an online retailer, marketplace, payments platform, or other commerce technology company strongly preferred.”
+
+Lastly, the product manager will help Twitter “drive the vision and execution of Twitter’s commerce strategy” to other colleagues, management and externally. Responsibilities will include the product roadmap for commerce merchants on the platform as well as the following:
+
+Make commerce on twitter a must have for merchants and fantastic experience for consumers.
+Make build, buy, or partner recommendations for various aspects of the product solution.
+Communicate product vision and priorities to internal and external stakeholders.
+Lead a cross-functional team of engineering, design, product marketing, business development and sales research to build amazing products for our users and our commerce clients.
+For the role of product manager, Twitter is not only looking for people with marketplace, online retailer, payments platform and other commerce technology experience, but also with advertising credentials, a computer science or engineering background, MBA a plus, and a “strong experimentation mindset.”
+
+So, what can you take away from these ads?
+
+It sounds like at least some aspects of the service will be laid out in a marketplace format — given the mention of marketplace in two of the three ads. Twitter will work on bringing in different third parties to a single platform to sell consumers their goods and services.
+
+Nothing is made clear on how the payments aspect would work. To recap, we heard that both Stripe and PayPal were among those being considered, and Re/code notes that Stripe will provide the backend.
+
+What is more clear is that Twitter is leaving some options open for what else it might outsource (“Make build, buy, or partner recommendations for various aspects of the product solution” it notes as one job directive).
+
+Meanwhile, the ad for a product marketing manager seems to imply more of a link between the advertising that is sold on Twitter and the goods that will be sold on Twitter. Intermingling ads and commerce with Twitter’s mainstay, user-generated content would make it more like Facebook than a pure-play e-commerce venture. This would also confirm the reports that we heard that it is looking at a card-style format — essentially adding commerce ‘cards’ into the river in the same way that a promoted post, or a very noncommercial photo from your friend, might appear in your feed today.
+
+There is also the question of what will be sold on Twitter. A leaked mock-up discovered last week by Re/code of how a Twitter transaction might work for goods on Fancy.com points to interest in the design and home goods vertical. But it also appears that Twitter is keeping its options open for other verticals, as long as the numbers support them: “Analyzing the business opportunity for Twitter across commerce verticals and building a data-driven case for participation.” A fitting litmus test for new commerce features, and perhaps for the commerce platform as a whole.

@@ -1,0 +1,23 @@
+In Praise Of Metro
+
+It looks like Microsoft has finally realized that Metro (or the Modern UI or whatever else they call it these days) wasn’t right for the desktop. If the rumors are true, it’ll continue to de-emphasize Metro with the first major Windows 8.1 update later this year. No doubt, that’s exactly the right thing to do. Metro is actually a great user interface – just not on the desktop.
+
+So let’s look at the positive side: On a tablet, Metro is actually really, really good. On a tablet like the Surface, it’s a more productive interface than iOS or Android. In large parts, that’s because you can have more than one app on the screen, something Microsoft often emphasized in its ads, but something you only really come to appreciate when you switch back from a Windows tablet to an iPad.
+
+It suffers from the lack of must-have apps and Microsoft never quite figured out how to get decent apps on the platform. Even today – with the exception of games – the best Metro apps are actually from Microsoft itself. Bing News is a very nice newsreader, for example. Microsoft’s finance app, too, is very good, and so are SkyDrive/OneDrive, Xbox Music, Bing Weather and Bing Maps (and especially the latest preview version). Live tiles are a great idea. Even Internet Explorer in Metro turns out to be a fast, touch-first browser.
+
+bing_news
+
+Those apps, however, show the potential of a platform that is radically different from its competitors (which may just explain its failure). Microsoft was willing to take a gamble and created a modern, highly usable user interface that can sometimes make the competition look like it’s a few years behind the design curve.
+
+Metro uses some touch gestures that aren’t always intuitive. Who would think to slide in from the left and slide right back to open your recently used apps? Slide in from the right to bring up your “charms” and settings? Once you get used to its quirks, though, it all just works.
+
+Yet if failed and I’m sure we’ll see plenty of business school papers written about Windows 8 in the future.
+
+Instapaper founder Marco Arment argues Windows 8 – and Metro specifically – failed because “Microsoft isn’t Apple, and Microsoft’s customers aren’t Apple’s customers.” In his view, Microsoft’s customers weren’t ready for this radical change and the company forgot who its customers are.
+
+There’s some truth to that, but my feeling is that Microsoft’s main mistake was simply to force the old desktop and the new tile-based interface into a single operating system. Just like Apple, Microsoft understood that a touch interface has to be different from a regular desktop interface. But instead of just building a Windows for tablets (preferably with a name that didn’t include “Windows” at all to avoid confusion) and a better Windows 7, it just had to cram it all into one.
+
+In a way, Windows RT was supposed to be that Windows for tablets, but even that had a built-in desktop so people could run Office. But RT just confused people. If Microsoft had just allowed itself to let go of its Office fetish, it may have had a better chance at making RT a success.
+
+Metro is great, but Microsoft was clearly wrong when it thought people would quickly adopt touch on the desktop and on their laptops. Maybe that’ll still happen, but for now, it’s doing the right thing for its users by hiding as much of the Metro interface as possible.

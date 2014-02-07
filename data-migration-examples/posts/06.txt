@@ -1,0 +1,15 @@
+Facebook Saved Over A Billion Dollars By Building Open Sourced Servers
+
+Facebook is reaping the benefits of designing its own energy efficient servers. Today at the Open Compute Summit, CEO Mark Zuckerberg said that “In the last three years alone, Facebook has saved more than a billion dollars in building out our infrastructure using Open Compute designs.”
+
+Facebook started the Open Compute Project back in April 2011 and its since blossomed into an industry-spanning coalition of companies that open source green technology designs for servers, data centers, and more. It includes Intel, AMD, Bloomberg, Box, Cumulus Networks, IBM, and Microsoft.
+
+While the Open Compute Project has saved the world a lot of energy, it’s also cut back on energy Facebook would have had to pay for. Zuckerberg proudly told interviewer Tim O’Reilly on stage at the Summit that “In just the last year we’ve saved the equivalent amount of energy of 40,000 homes in a year, and saved the amount of emissions equivalent to taking 50,000 cars off the road for a year.”
+
+BfF1IGMCEAAaYfNConsidering that recently the average US houshold used 903 kilowatt hours per month at an average price of $0.1209 per kilowatt hour, that means Facebook could have saved somewhere in the ballpark of $52 million in energy thanks to Open Compute designs.
+
+Facebook’s VP of Engineering Jay Paraikh also noted that over the past three years, Open Compute designs have let Facebook save $1.2 billion.
+
+Along with helping the environment, the project lets Facebook crowdsource improvements to its infrastructure and allows multiple vendors to produce identical equipment that gives Facebook supply chain diversity. The whole thing is probably a great engineer recruiting tool too.
+
+From a high-level, Open Compute fits nicely with Internet.org — a project designed to make basic Internet devices and data connections affordable to five billion people still disconnected. Together they illuminate Facebook’s recent modus operandi: figuring out ways to help the world that also save it money or expand its empire.

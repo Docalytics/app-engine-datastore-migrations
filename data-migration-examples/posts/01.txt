@@ -1,0 +1,37 @@
+Getting Girls Into Programming, One Children's Book At A Time
+
+I normally dislike writing about the issue of women in the technology industry. The media either ends up treating female entrepreneurs with kid gloves or the conversation ends up in some emotionally charged place where people feel angry or violated. And then we’ve made little progress.
+
+Are there systematic biases embedded in the industry? Are women not leaning in hard enough? Do we not have enough role models? All of the above?
+
+One thing is clear, however. There are just not enough women in the pipeline starting from as early as K-12 schools. If less than 20 percent of computer science degrees are awarded to women in the first place, how can we expect a proportionate number of women to move forward into entrepreneurship or engineering careers?
+
+So that’s why it’s refreshing to see someone intervene at such an early stage, and in such a playful, delightful way.
+
+Linda Liukas, who founded an educational non-profit called Rails Girls that has taught programming skills to women in 160 cities globally, has switched her attention to a younger set.
+
+She’s authoring an illustrated children’s book called “Hello Ruby,” to get girls into coding. And by girls, I don’t mean women in a pejorative sense. I actually mean girls, as in little girls from ages 5 to 7.
+
+Liukas says she came up with the idea of her little red-haired protagonist, Ruby, while teaching herself programming.
+
+“I would use the Ruby character as a reference. How would she explain object-oriented programming?” she said. Liukas was a business student before she started Rails Girls, which originally was never intended to be a global phenomenon. It grew into a community that has reached 10,000 women through events and weekend workshops. She then went onto work for Codecademy, the New York-based startup that teaches people how to code.
+
+She said there’s this huge, untapped potential in younger girls that gets missed.
+
+“Teenage girls have such energy, this unhinged energy, that shouldn’t just be expressed in repeating or reblogging,” she said. “They should be creating instead of curating.”
+
+She remembered when she was thirteen and dabbled in web development by once making a “really ugly” website about Al Gore.
+
+“I was 13. I had all this teenage girl passionate energy and I was really, really, madly in love with Al Gore,” she laughed. She didn’t get back into programming or web development until more than a decade later, but imagine if others like her stuck with it?
+
+In Liukas’ project, Ruby is a little girl who makes friends with characters like snow leopards and penguins while solving problems. There are two books: one is an old-fashioned story book with a narrative and different characters. The second book is a workbook that introduces basic programming concepts like loops and variables. All of the exercises in it can be solved with a pen and paper.
+
+liukas-ruby
+
+“It’s going to be very tangible and crafty. You’ll be able draw and doodle all over it,” she said.
+
+So far, she’s blown through her original Kickstarter goal of $10,000 to raise more than $268,000 for the project with 18 days to go. She added two stretch goals: at $250,000, she pledged to write parents guide and at $500,000, she’ll build a complementary mobile app for books.
+
+“The book is only a glimpse of what’s possible,” said Liukas, who said she’s been blown away by the community’s response in beating her original fundraising goal by more than twenty-five fold.
+
+“I’ll remember this for the rest of my whole life,” she added.
